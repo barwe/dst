@@ -7,7 +7,6 @@
 
 --ForceEnableMod("kioskmode_dst")
 
-
 -- Use "EnableModDebugPrint()" to show extra information during startup.
 
 --EnableModDebugPrint()
@@ -15,3 +14,11 @@
 -- Use "EnableModError()" to make the game more strict and crash on bad mod practices.
 
 --EnableModError()
+
+-- Use "DisableModDisabling()" to make the game stop disabling your mods when the game crashes
+
+--DisableModDisabling()
+
+-- Use "DisableLocalModWarning()" to make the game stop warning you when enabling local mods.
+
+--DisableLocalModWarning()
